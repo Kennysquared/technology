@@ -1,3 +1,3 @@
 # technology
 
-![Alt text here](Kenny.draw.io.svg)
+![Alt text here](Kenny.png)
